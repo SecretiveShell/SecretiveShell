@@ -18,6 +18,13 @@ I'm also familiar with:
 - JavaScript
 - C#
 
+### I am Interested in Working On 🔍
+
+- AI and Machine Learning projects, particularly those involving natural language processing and reasoning.
+- Automation and agentic workflows solving real world problems.
+- Pushing benchmarks with new and innovative ideas.
+- The combination of neuro symbolic architectures for self hosted systems.
+
 Feel free to connect with me or check out my projects to learn more about what I'm building and exploring!
 
 <!--
