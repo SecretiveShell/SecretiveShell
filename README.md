@@ -6,7 +6,7 @@ I'm a Computer Science undergraduate interested in working on Artificial Intelli
 
 I mostly work on backed systems related to AI and language modelling, in langauages such as python. 
 
-Most of my open source contributions are related to the model context protocol scene, where I maintain [MCP-Bridge](https://github.com/secretiveShell/mcp-bridge) as a middleware API service. I have a handful of MCP servers including API integrations for [SearXNG](https://github.com/SecretiveShell/MCP-searxng) and [Wolfram Alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha, as well as locally exposed resources via [MCP-timeserver](https://github.com/SecretiveShell/mcp-timeserver).
+Most of my open source contributions are related to the model context protocol scene, where I maintain [MCP-Bridge](https://github.com/secretiveShell/mcp-bridge) as a middleware API service. I have a handful of MCP servers including API integrations for [SearXNG](https://github.com/SecretiveShell/MCP-searxng) and [Wolfram Alpha](https://github.com/SecretiveShell/MCP-wolfram-alpha), as well as locally exposed resources via [MCP-timeserver](https://github.com/SecretiveShell/mcp-timeserver).
 
 ### Languages and core technologies.
 
